@@ -1,0 +1,17 @@
+.user_block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    width: 565px;
+    margin: auto;
+    margin-top: 10px; 
+}
+
+.user p {
+    margin-bottom: 5px;
+}
+
+.user p:first-child {
+    margin-top: 5px;
+}

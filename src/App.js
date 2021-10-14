@@ -5,7 +5,7 @@ import Users from "./Users"
 class App extends React.Component {
   render() {
     return (
-      <div>
+      <div className="app">
         <Users />
       </div>
     );
